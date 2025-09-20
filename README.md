@@ -1,1 +1,1 @@
-This is a Simple JSON Parser . 
+This is Just a simple JSON parser . 
